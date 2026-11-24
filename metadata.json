@@ -1,0 +1,9 @@
+{
+    "id":"sussypoo",
+    "name": "dingusmod",
+    "author": ["childprotectiveservicessmith"],
+    "description": "the shittiest mod on the seven seas",
+    "prefix": "sussy",
+    "main_file": "main.lua",
+    "version": "1.0"
+}
